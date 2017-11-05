@@ -1,0 +1,3550 @@
+Started GET "/text" for 127.0.0.1 at 2017-10-29 10:47:42 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 2542ms (Views: 2234.2ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 10:47:58 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 10:48:10 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 70ms (Views: 69.4ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 10:48:19 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:05:38 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 797ms (Views: 393.4ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:05:44 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/rails/info/routes?path=te" for 127.0.0.1 at 2017-10-29 17:06:05 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"te"}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/rails/info/routes?path=text" for 127.0.0.1 at 2017-10-29 17:06:06 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"text"}
+Completed 200 OK in 1ms (Views: 0.1ms)
+
+
+Started GET "/rails/info/routes?path=text" for 127.0.0.1 at 2017-10-29 17:06:06 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"text"}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/rails/info/routes?path=text_" for 127.0.0.1 at 2017-10-29 17:06:06 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"text_"}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/rails/info/routes?path=text_o" for 127.0.0.1 at 2017-10-29 17:06:08 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"text_o"}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/rails/info/routes?path=text_path" for 127.0.0.1 at 2017-10-29 17:06:09 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"text_path"}
+Completed 200 OK in 1ms (Views: 0.1ms)
+
+
+Started GET "/rails/info/routes?path=text_path" for 127.0.0.1 at 2017-10-29 17:06:10 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"text_path"}
+Completed 200 OK in 1ms (Views: 0.1ms)
+
+
+Started GET "/hw/text" for 127.0.0.1 at 2017-10-29 17:07:05 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/hw/text"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:07:17 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 42ms (Views: 41.4ms)
+
+
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:08:25 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 37ms (Views: 36.4ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:08:32 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:10:13 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 49ms (Views: 46.6ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:10:16 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:11:37 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 35ms (Views: 34.3ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:11:40 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:14:38 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 256ms (Views: 223.5ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:14:44 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:24:09 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 228ms (Views: 226.9ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:24:13 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:24:57 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 38ms (Views: 35.8ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:25:00 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:26:33 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 32ms (Views: 31.3ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:26:36 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:29:40 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 32ms (Views: 31.3ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:29:48 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/hw/id" for 127.0.0.1 at 2017-10-29 17:35:16 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (69.6ms)
+Completed 200 OK in 652ms (Views: 603.5ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:35:24 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (51.6ms)
+Completed 200 OK in 544ms (Views: 508.0ms)
+
+
+Started POST "/hw/id" for 127.0.0.1 at 2017-10-29 17:35:27 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/hw/id"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:35:52 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 91ms (Views: 87.6ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:35:56 +0200
+  
+AbstractController::ActionNotFound (The action 'create' could not be found for HwController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:36:35 +0200
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/controllers/hw_controller.rb:20: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/hw_controller.rb:20: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:39:35 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 70ms (Views: 69.3ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:39:40 +0200
+  
+AbstractController::ActionNotFound (The action 'create' could not be found for HwController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:40:19 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 67ms (Views: 61.5ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:40:24 +0200
+  
+AbstractController::ActionNotFound (The action 'new' could not be found for HwController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:41:14 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 85ms (Views: 84.5ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:41:18 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"0crBmBAhW5i3QsA52wQSU2cCcpv7ORdwtJyJRQY4stF3/fj5wL7UKmMOJTNuo/AqRkIIoEiQd+os+EO2RfD6OQ==", "text1"=>"ole", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 1023ms
+
+
+  
+NameError (undefined local variable or method `data' for #<HwController:0x00007f25f855b4d0>
+Did you mean?  @data):
+  
+app/controllers/hw_controller.rb:8:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:41:33 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 39ms (Views: 37.6ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:41:36 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"NNnhPxwLTVuOi3ORPPUksJf/ZozMpWjHtOAD3pchxFiS7thezJTC6VrHlpuJUsbJtr8ct38MCF0shMkt1OmMsA==", "text1"=>"ole", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 3354ms
+
+
+  
+NameError (undefined local variable or method `data' for #<HwController:0x00007f25fcb81a90>
+Did you mean?  @data):
+  
+app/controllers/hw_controller.rb:8:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:42:01 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 63ms (Views: 60.9ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:42:06 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/P6R8KSILzUebXATnv0JAAOsMmAu1bIz9C+fjuJNxwFayaiRdBegh8ohlRkrWut5IuxIW5180qlsS1V9oYWP6Q==", "text1"=>"ole", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 3ms
+
+
+  
+NoMethodError (undefined method `path' for "ole":String
+Did you mean?  pathmap):
+  
+app/controllers/hw_controller.rb:8:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:42:21 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 33ms (Views: 32.4ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:42:25 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"20QnhIykOOprz/VgtLXIe7IxA9pU86E23u8BaXY21v59cx7lXDu3WL+DEGoBEioCk3F54edawaxGi8uaNf6eFg==", "text1"=>"olweee", "commit"=>"Upload text"}
+Redirected to http://localhost:3000olweee
+Completed 302 Found in 2ms
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:42:39 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"20QnhIykOOprz/VgtLXIe7IxA9pU86E23u8BaXY21v59cx7lXDu3WL+DEGoBEioCk3F54edawaxGi8uaNf6eFg==", "text1"=>"olweee", "commit"=>"Upload text"}
+Redirected to http://localhost:3000olweee
+Completed 302 Found in 1ms
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:42:52 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 73ms (Views: 72.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:42:56 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xS/kBC2z8GWAvEdsLYd2uwzfMhpjM5mL2gPsnHbmb35jGN1l/Sx/11TwomaYIJTCLZ9IIdCa+RFCZyZvNS4nlg==", "text1"=>"ohohohoh", "commit"=>"Upload text"}
+Redirected to http://localhost:3000ohohohoh
+Completed 302 Found in 1ms
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:43:13 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 61ms (Views: 59.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:43:17 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fnbTk45R2qP4rYIvbuzKmHJ4WFuRDbfmNCQqMEAXGD7YQeryXs5VESzhZyXbSyjhUzgiYCKk13ysQODDA99Q1g==", "text1"=>"lele", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 3ms
+
+
+  
+NoMethodError (undefined method `path' for "lele":String
+Did you mean?  pathmap):
+  
+app/controllers/hw_controller.rb:8:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:45:44 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 42ms (Views: 41.2ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:45:49 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/6NFwN/CMTuT1H2L7o04HONVTcH9P5zEvmph8ghjSX1ZlHyhD12+iUeYmIFbKtplwhU3+k6W/F4mDqsBS6sBlQ==", "text1"=>"ole ole ole ole", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 2ms
+
+
+  
+NoMethodError (undefined method `path' for "ole ole ole ole":String
+Did you mean?  pathmap):
+  
+app/controllers/hw_controller.rb:8:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:46:02 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 37ms (Views: 35.8ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:46:08 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BiaVo8+Z+PTs2Nd7EceERe83t2Kdls+xrf8vqPKLvRSgEazCHwZ3RjiUMnGkYGY8znfNWS4/rys1m+VbsUP1/A==", "text1"=>"ole ole ole ole ", "commit"=>"Upload text"}
+Redirected to 
+Completed 500 Internal Server Error in 1ms
+
+
+  
+ActionController::UrlGenerationError (No route matches {:action=>"show", :controller=>"hw"}):
+  
+app/controllers/hw_controller.rb:10:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:46:50 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 32ms (Views: 30.5ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:46:55 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Mjm4qyL/77GjZynXbZwDrYEjqra4qm/WZnQ84xbZ3DGUDoHK8mBgA3crzN3YO+HUoGPQjQsDD0z+EPYQVRGU2Q==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/text
+Completed 302 Found in 4ms
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:46:55 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 42ms (Views: 41.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:46:57 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VLqllDd5BeecjyI54McvHn9x5UFAH1Pcq7M/Zi9NOZvyjZz15+aKVUjDxzNVYM1nXjGfevO2M0Yz1/WVbIVxcw==", "text1"=>"", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/text
+Completed 302 Found in 1ms
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:46:57 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 32ms (Views: 31.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:47:01 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lNa5HYGJlg357tftWw+OFXETXmhm1wKwJD2OiFdbyBMy4YB8URYZvy2iMufuqGxsUFMkU9V+Yiq8WUR7FJOA+w==", "text1"=>"lelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/text
+Completed 302 Found in 1ms
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:47:01 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 36ms (Views: 35.2ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:47:16 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 43ms (Views: 42.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:47:19 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4jvApas7KxskfpRCVHHcTlFVeU/1UMXRxjPxdINC0JhEDPnEe6SkqfAycUjh1j43cBUDdEb5pUteVzuHwIqYcA==", "text1"=>"lelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:47:19 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/show"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:48:01 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 43ms (Views: 41.8ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:48:04 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eUNbb1OlAxYaYM9zghL5vZMJGENtwPSC5ObQaj07GrnfdGIOgzqMpM4sKnk3tRvEsklieN5plBh8ghqZfvNSUQ==", "text1"=>"olele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 4ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:48:04 +0200
+Processing by HwController#show as HTML
+Completed 500 Internal Server Error in 261ms
+
+
+  
+NameError (undefined local variable or method `data' for #<HwController:0x00007f25f81614b0>):
+  
+app/controllers/hw_controller.rb:15:in `show'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:48:33 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (34.5ms)
+Completed 200 OK in 72ms (Views: 71.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:48:37 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aOazaf1FB5KHOf/r6slR6ZytAstpj9LmhTBWV3UHUZjO0YoILdqIIFN1GuFfbrOQve148NomsnwdVJykNs8ZcA==", "text1"=>"olelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 3ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:48:37 +0200
+Processing by HwController#show as HTML
+Completed 500 Internal Server Error in 932ms
+
+
+  
+NameError (undefined local variable or method `data' for #<HwController:0x00007f25f8246948>
+Did you mean?  @data):
+  
+app/controllers/hw_controller.rb:16:in `show'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:48:57 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 46ms (Views: 45.2ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:49:02 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FTWcbGOc2DLaVmWgPSxhUNdP9y1XzjsO0r83j+NvzDKzAqUNswNXgA4agKqIi4Mp9g+NFuRnW5RK2/18oKeE2g==", "text1"=>"lelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 2ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:49:02 +0200
+Processing by HwController#show as HTML
+Completed 500 Internal Server Error in 477ms
+
+
+  
+NameError (undefined local variable or method `data' for #<HwController:0x00007f25f851d0b8>
+Did you mean?  @data):
+  
+app/controllers/hw_controller.rb:16:in `show'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:49:16 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 54ms (Views: 50.2ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:49:21 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xRN4Ix4064cNVaHskROzKdaT7WcmN4we/7HTE6zq6a9jJEFCzqtkNdkZROYktFFQ99OXXJWe7IRn1Rng7yKhRw==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:49:21 +0200
+Processing by HwController#show as HTML
+Completed 500 Internal Server Error in 2ms
+
+
+  
+ActionView::MissingTemplate (Missing template hw/show, application/show with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/kateto/Documents/TUES/Ruby/blog/app/views"
+):
+  
+app/controllers/hw_controller.rb:16:in `show'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:55:04 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 813ms (Views: 391.3ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:55:09 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8e9zltSOKRE0Lm+TY5wiBjImp7eq68detcASWGLeYFBX2Er3BBGmo+BiipnWO8B/E2bdjBlCp8QtpNirIRYouA==", "text1"=>"qlelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 2ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:55:09 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 4ms
+
+
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:4: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+                ^
+/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:6: syntax error, unexpected keyword_end, expecting ')'
+          end
+             ^):
+  
+app/views/hw/show.html.erb:4: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/hw/show.html.erb:6: syntax error, unexpected keyword_end, expecting ')'
+app/controllers/hw_controller.rb:16:in `show'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:56:01 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 38ms (Views: 35.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:56:06 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4t1+m5Jgp2XV0N+yuLgFSp25V/u/FvWQWkLZqsEdFgZE6kf6Qv8o1wGcOrgNH+czvPktwAy/lQrCJhNZgtVe7g==", "text1"=>"olqqq", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:56:06 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (2.9ms)
+Completed 500 Internal Server Error in 7ms
+
+
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:2: unterminated string meets end of file
+/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:2: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/hw/show.html.erb:2: unterminated string meets end of file
+app/views/hw/show.html.erb:2: syntax error, unexpected end-of-input, expecting ')'
+app/controllers/hw_controller.rb:16:in `show'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:57:06 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 39ms (Views: 38.5ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:57:11 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RtZVnyoAau/CX7XA3UqfZMdD4ICUjzTPVdxjNfg/qUbg4Wz++p/lXRYTUMpo7X0d5gOauycmVFXNuKnGu/fhrg==", "text1"=>"lelelelelelellel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:57:11 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 31ms (Views: 30.7ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:57:59 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 25.9ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:58:04 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3CjcHRqeEsFx7OY57G8ZA1WmZrfZMxDSM4WOsdCGiEV6H+V8ygGdc6WgAzNZyPt6dOYcjGqacEir4URCk07ArQ==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 5ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:58:04 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 42ms (Views: 41.0ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 17:59:50 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 40ms (Views: 39.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 17:59:55 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qMY7URlXRUFBg3/89WWmshrNVJ/rNDEf+cFu8m67XbwO8QIwycjK85XPmvZAwkTLO40upFidUYVhpaQBLXMVVA==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 3ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 17:59:55 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 6ms
+
+
+  
+ActionView::Template::Error (undefined method `text' for nil:NilClass):
+    1: <p>
+    2: <%= @data.text %>
+  
+app/views/hw/show.html.erb:2:in `_app_views_hw_show_html_erb__736932277503136565_70135386297520'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:00:35 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 34ms (Views: 33.5ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:00:44 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CIgAOljbKRgnrNGJrfe2ZRcCDEV3jsGdgbHQsih1eemuvzlbiESmqvPgNIMYUFQcNkJ2fsQnoQcZ1RpBa70xAQ==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:00:44 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 35ms (Views: 34.0ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:01:16 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 37ms (Views: 36.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:01:23 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lbIHUpRzQQ0jNJ8rIajPxZ23RlI60MoIbBWB+f5R4YAzhT4zROzOv/d4eiGUDy28vPc8aYl5qpL0cUsKvZmpaA==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 4ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:01:23 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 31ms (Views: 30.0ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:01:46 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 43ms (Views: 42.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:01:51 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"u1ZqP2iCq9FzbmPohwB1jR/K+0YEm3nrAh6V6KxaSfQdYVNeuB0kY6cihuIyp5f0PoqBfbcyGXGael8b75IBHA==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 2ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:01:51 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 51ms (Views: 50.0ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:02:06 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 39ms (Views: 37.8ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:02:11 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uU4yrtFxxzDUh/1y9m/YekfyeHSSi+un3Bl3jZx7HKsfeQvPAe5IggDLGHhDyDoDZrICTyEiiz1Efb1+37NUQw==", "text1"=>"lelelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:02:11 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (408.0ms)
+Completed 500 Internal Server Error in 415ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `is' for #<#<Class:0x00007f936036c9a0>:0x00007f9360733908>):
+    1: <p>
+    2: <%= Text is %>
+    3: </p>
+  
+app/views/hw/show.html.erb:2:in `_app_views_hw_show_html_erb__736932277503136565_70135477551520'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:02:32 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 46ms (Views: 45.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:02:37 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FWpKaSKn0uemTCcMtrfEcV7HMzumu3SzDrpgOrolWbWzXXMI8jhdVXIAwgYDECYIf4dJABUSFCmW3qrJ+e0RXQ==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 2ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:02:37 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (12.9ms)
+Completed 500 Internal Server Error in 17ms
+
+
+  
+ActionView::Template::Error (uninitialized constant ActionView::CompiledTemplates::Text1):
+    1: <p>
+    2: <%= Text1 %>
+    3: </p>
+  
+app/views/hw/show.html.erb:2:in `_app_views_hw_show_html_erb__736932277503136565_70135476560120'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:03:09 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 54ms (Views: 52.8ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:06:09 +0200
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/controllers/hw_controller.rb:8: syntax error, unexpected tIVAR, expecting ')'
+	@data.save
+	     ^):
+  
+app/controllers/hw_controller.rb:8: syntax error, unexpected tIVAR, expecting ')'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:06:44 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 40ms (Views: 38.9ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:06:49 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CAGC1Ymym7pHpzuQ++XnWdixLAfxREi4RIwp50p/5SyuNru0WS0UCJPr3ppOQgUg+fFWPELtKCLc6OMUCbetxA==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+NameError (uninitialized constant HwController::Message):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:07:17 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 35ms (Views: 34.3ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:07:22 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"NdGCR45BLtamCiyADPoN7jp319/t9JeJ6/uIzdXs1yaT5rsmXt6hZHJGyYq5Xe+XGzet5F5d9xNzn0I+liSfzg==", "text1"=>"lelelelelelel", "commit"=>"Upload text"}
+Completed 400 Bad Request in 1ms
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:08:05 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 50ms (Views: 48.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:08:10 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"s9cQXnnzl7GjD8k7KsQReiy67OOuJx+u6nA6DXwsiLEV4Ck/qWwYA3dDLDGfY/MDDfqW2B2OfzRyFPD+P+TAWQ==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Completed 400 Bad Request in 1ms
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: id):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:08:43 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 37ms (Views: 34.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:08:47 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D2QyqesdBtsd5l5UxzR2nqSvU3+ZX+GpgejZX0dd/6mpUwvIO4KJacmqu15yk5Tnhe8pRCr2gTMZjBOsBJW3QQ==", "text1"=>"lelelelelelelelele", "commit"=>"Upload text"}
+Unpermitted parameters: :utf8, :authenticity_token, :commit
+Completed 500 Internal Server Error in 3ms
+
+
+  
+TypeError (allocator undefined for Data):
+  
+app/controllers/hw_controller.rb:7:in `new'
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:09:33 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 33ms (Views: 32.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:09:38 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"e4ceJWeM8dJOeJg8T/ev8DRoP8dBjdFGrROm9IYWanjdsCdEtxN+YJo0fTb6UE2JFShF/PIksdw1d2wHxd4ikA==", "text1"=>"lelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:09:38 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 5ms
+
+
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:3: syntax error, unexpected '<', expecting ')'
+/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:3: unterminated regexp meets end of file):
+  
+app/views/hw/show.html.erb:3: syntax error, unexpected '<', expecting ')'
+app/views/hw/show.html.erb:3: unterminated regexp meets end of file
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:10:29 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 39ms (Views: 37.8ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:10:34 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"H97nKjhIAtFSQ9oVRoluaNbZ59aNa8o7AH5IDJjwdgS56d5L6NeNY4YPPx/zLowR95md7T7CqqGYGoL/2zg+7A==", "text1"=>"lelelelelelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:10:34 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 2ms
+
+
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:6: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+                ^
+/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/show.html.erb:8: syntax error, unexpected keyword_end, expecting ')'
+          end
+             ^):
+  
+app/views/hw/show.html.erb:6: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/hw/show.html.erb:8: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:11:16 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 47ms (Views: 44.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:11:21 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"G0GfvZBsXoIpNdkf47inYYMuhkAtHROFJ/h5J9U1fQO9dqbcQPPRMP15PBVWH0UYom78e560cx+/nLPUlv016w==", "text1"=>"lelelelelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:11:21 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (184.2ms)
+Completed 500 Internal Server Error in 191ms
+
+
+  
+ActionView::Template::Error (undefined method `TEXT' for #<#<Class:0x00007f936053db58>:0x00007f93601aeb68>
+Did you mean?  test):
+    1: 
+    2: <%= TEXT @data %>
+  
+app/views/hw/show.html.erb:2:in `_app_views_hw_show_html_erb__736932277503136565_70135474649760'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:13:40 +0200
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/controllers/hw_controller.rb:22: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/hw_controller.rb:22: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:13:55 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 50ms (Views: 46.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:14:00 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ylp5UDA/I6lgXRV/grYCPt8uKWZgQgTqQ77OdeZo14hsbUAx4KCsG7QR8HU3EeBH/m5TXdPrZHDb2gSGpaCfYA==", "text1"=>"lelelelelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:14:00 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (340.3ms)
+Completed 500 Internal Server Error in 348ms
+
+
+  
+ActionView::Template::Error (undefined method `TEXT' for #<#<Class:0x00007f93600ac940>:0x00007f9355a056a0>
+Did you mean?  test):
+    1: 
+    2: <%= TEXT @data %>
+  
+app/views/hw/show.html.erb:2:in `_app_views_hw_show_html_erb__736932277503136565_70135386747660'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:14:22 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 38ms (Views: 37.6ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:14:28 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YY9zRSSHybyMCR2Kpig1uOKm9ictYhJSFAyZpZgj623HuEok9BhGDlhF+IATj9fBw+aMHJ7LcsiMaFNW2+ujhQ==", "text1"=>"lelelelelelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:14:28 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 48ms (Views: 47.5ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:15:50 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 692ms (Views: 335.4ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:15:56 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"IqP/5VCfb+WB0I9TxZKXCP5grtp0CNG9umkc3zJQhIyElMaEgADgV1WcallwNXVx3yDU4cehsSciDdYscZjMZA==", "text1"=>"lelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:15:56 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 29ms (Views: 28.7ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:16:57 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 30.8ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:16:59 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 36ms (Views: 35.4ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:17:00 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 31.6ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:17:16 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 31.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-29 18:22:17 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kateto/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kateto/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 402ms (Views: 14.1ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:23:09 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 277ms (Views: 275.8ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:27:07 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 38ms (Views: 37.2ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:27:11 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 33ms (Views: 32.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:27:28 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lnasEXY/Zc/ZPo8VhckFyPA1q+WY/YMyatYAoT+hDMswQZVwpqDqfQ1yah8wbuex0XXR3itU46jysspSfGlEIw==", "text1"=>"lelelelelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 2ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:27:28 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 32.2ms)
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:29:04 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 39ms (Views: 38.4ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:29:10 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 75ms (Views: 74.2ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:29:15 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5ALkrjG0G5jHXf1bq3XT4K3MvZ2sQVtz69zvqXxtredCNd3P4SuUKhMRGFEe0jGZjIzHph/oO+lzuCVaP6XlDw==", "text1"=>"lelelelelelelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:29:15 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 30.9ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:31:51 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 885ms (Views: 343.8ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:31:57 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iTmOKq52zmRfVGP2uSXD+QH5AneYh+xcBEqW+LW4eLcvDrdLfulB1osYhvwMgiGAILl4TCsujMacLlwL9nAwXw==", "text1"=>"lelelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:31:57 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 46ms (Views: 44.7ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:32:55 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 36ms (Views: 28.8ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:32:59 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"U7Zda/9EbZGUTSeoQtWkZcdiDkfJxH9GgK4jlf3H21D1gWQKL9viI0ABwqL3ckYc5iJ0fHptH9wYyulmvg+TuA==", "text1"=>"qwerty", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:32:59 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 33ms (Views: 32.5ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:37:27 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 45ms (Views: 43.2ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:38:00 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 71ms (Views: 70.2ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:38:06 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gMw0HsgL0Jk/rEaAeTAZ/5mXqLanlkXXeu7BCRPpaKMm+w1/GJRfK+vgo4rMl/uGuNfSjRQ/JU3iigv6UCEgSw==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:38:06 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 38ms (Views: 36.8ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:38:16 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/view"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:38:33 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 59ms (Views: 58.0ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:38:42 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 75ms (Views: 74.3ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:38:47 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vg9sEigZ/948AT8JN0JlVjW6o0jM7mAO7E6uKsxfiOgYOFVz+IZwbOhN2gOC5YcvFPrZc39HAJR0KmTZj5fAAA==", "text1"=>"lelelelelelele", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:38:47 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 43ms (Views: 42.4ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:38:52 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 44ms (Views: 42.8ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:40:42 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 56ms (Views: 55.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:40:46 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"sqvIwbxWzVcSJX4Sv+cn8VLVahg7XSEd6bXW/nkNnagUnPGgbMlC5cZpmxgKQMWIc5UQI4j0QYdx0RwNOsXVQA==", "text1"=>"qwerty", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:40:46 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 48ms (Views: 46.8ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:40:51 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (28.6ms)
+Completed 500 Internal Server Error in 38ms
+
+
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/view.html.erb:3: syntax error, unexpected '<', expecting ')'
+/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/view.html.erb:3: unterminated regexp meets end of file):
+  
+app/views/hw/view.html.erb:3: syntax error, unexpected '<', expecting ')'
+app/views/hw/view.html.erb:3: unterminated regexp meets end of file
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:42:03 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 64ms (Views: 63.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:42:07 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"NY/tKTzMy+8P60nRU3KUNZKrukU9vSLF0F567ClOqYyTuNRI7FNEXdunrNvm1XZMs+vAfo4UQl9IOrAfaobhZA==", "text1"=>"olqqqq", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 5ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:42:07 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 34ms (Views: 32.9ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:42:13 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 8ms
+
+
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/view.html.erb:3: syntax error, unexpected '<', expecting ')'
+/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/view.html.erb:3: unterminated regexp meets end of file):
+  
+app/views/hw/view.html.erb:3: syntax error, unexpected '<', expecting ')'
+app/views/hw/view.html.erb:3: unterminated regexp meets end of file
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:51:52 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 58ms (Views: 49.8ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:52:03 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 2ms
+
+
+  
+SyntaxError (/home/kateto/Documents/TUES/Ruby/blog/app/views/hw/view.html.erb:2: syntax error, unexpected tIVAR, expecting ')'
+ut_buffer.append=( "Olq" @data );@output_buffer.safe_append=
+                              ^):
+  
+app/views/hw/view.html.erb:2: syntax error, unexpected tIVAR, expecting ')'
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:53:27 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 23ms
+
+
+  
+ActionView::Template::Error (Missing partial hw/_data, application/_data with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/kateto/Documents/TUES/Ruby/blog/app/views"
+):
+    1: <p>
+    2: <%= render :partial => 'data' %>
+    3: </p>
+  
+app/views/hw/view.html.erb:2:in `_app_views_hw_view_html_erb__3681478173939581940_69836707304080'
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:54:22 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 40ms (Views: 39.4ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:54:28 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 45ms (Views: 42.3ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:54:33 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UOEzlVMUaEfD/WO1SAt5yP0nw+J+eFqqFZdlFMNvDS/21gr0g4vn9Rexhr/9rJux3Ge52c3ROjCN86/ngKdFxw==", "text1"=>"lqlqlqlqlqlqlqlqlq", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:54:33 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 36ms (Views: 34.6ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:54:38 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 27ms (Views: 26.2ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:55:12 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 29ms (Views: 28.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 18:55:18 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"x978t/RQwArB69E2qZdICZk30pd0tiUQbPhyCyX/Y9Jh6cXWJM9PuBWnNDwcMKpwuHeorMcfRYr0nLj4ZjcrOg==", "text1"=>"lelelelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 18:55:18 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 31.0ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 18:55:29 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 32ms (Views: 31.7ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:59:02 +0200
+Processing by HwController#id as HTML
+Completed 500 Internal Server Error in 2ms
+
+
+  
+NoMethodError (undefined method `all' for Data:Class):
+  
+app/controllers/hw_controller.rb:4:in `id'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 18:59:56 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 35ms (Views: 34.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:00:01 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lML2e/NUnyDt/0Br23eA4iXajAogJBkfA/NMYGjpH3My9c8aI8sQkjmzpWFu0GKbBJr2MZONeYWbl4aTKyFXmw==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 4ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 19:00:01 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 44ms (Views: 42.6ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 19:00:07 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 32.4ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 19:00:24 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 25.6ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 19:00:45 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 34ms (Views: 32.9ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:00:50 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 52ms (Views: 50.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:00:54 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"c/p1yhkgwnQnsolPAqdctOUmF+AlAOXcFnZlh1LGkMDVzUyryb9NxvP+bEW3AL7NxGZt25aphUaOEq90EQ7YKA==", "text1"=>"arebe", "commit"=>"Upload text"}
+Redirected to http://localhost:3000/show
+Completed 302 Found in 1ms
+
+
+Started GET "/show" for 127.0.0.1 at 2017-10-29 19:00:54 +0200
+Processing by HwController#show as HTML
+  Rendering hw/show.html.erb within layouts/application
+  Rendered hw/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 37ms (Views: 35.9ms)
+
+
+Started GET "/view" for 127.0.0.1 at 2017-10-29 19:00:58 +0200
+Processing by HwController#view as HTML
+  Rendering hw/view.html.erb within layouts/application
+  Rendered hw/view.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 40ms (Views: 38.7ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:06:17 +0200
+  
+ActionController::RoutingError (uninitialized constant MessagesController):
+  
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:78:in `controller_class'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:43:in `controller'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:29:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:06:58 +0200
+Processing by MessagesController#id as HTML
+Completed 406 Not Acceptable in 14ms
+
+
+  
+ActionController::UnknownFormat (MessagesController#id is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.4) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:08:53 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 51ms (Views: 46.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:08:58 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oqQiOSlhPiNXhnw3ynRig2yjRVbkhfve8B6a94ywt7UEkxtY+f6xkYPKmT1/04D6TeM/bVcsm0RoelAEz3j/XQ==", "text1"=>"lelelelelelelel", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 3ms
+
+
+  
+NameError (uninitialized constant HwController::Hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:09:29 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 47ms (Views: 46.4ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:09:33 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xHEf/uHTMO4HALNOod9L4porCSViM+aeRLhPjBjVrD1iRiafMUy/XNNMVkQUeKmbu2tzHtGahgTc3IV/Wx3k1Q==", "text1"=>"lelelelelelele", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+NameError (uninitialized constant HwController::Hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:09:59 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 43ms (Views: 42.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:10:03 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UQ/7vx1SBH3A3Y7btNNSmA4AXdwzJrSzJlNXcCt5J0f3OMLezc2LzxSRa9EBdLDhL0An54CP1Cm+N52DaLFvrw==", "text1"=>"lel", "commit"=>"Upload text"}
+Completed 400 Bad Request in 1ms
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:11:56 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 729ms (Views: 511.1ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:12:01 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MHBrr3DycSHHs05HMLFhcyHhTOQcneT/jlvidc3DRvKWR1LOoG3+kxP/q02FFoMKAKE23680hGUWPyiGjgsOGg==", "text1"=>"lelelelelelele", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+NameError (uninitialized constant HwController::HW):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:12:15 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 36ms (Views: 35.3ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:12:18 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"TWt2ppYB8RNGxKITtH7kLffqjShCWkDlsUBpsxtF5aLrXE/HRp5+oZKIRxkB2QZU1qr3E/HzIH8pJKNAWI2tSg==", "text1"=>"le", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+NameError (uninitialized constant HwController::Hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:18:16 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 34ms (Views: 32.6ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:18:20 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6RY/MQtV15QLTVwr9RxA+t8fX1byf7HPpbPQoiXYZdhPIQZQ28pYJt8BuSFAu6KD/l8lbUHW0VU91xpRZhAtMA==", "text1"=>"lele", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 26ms
+
+
+  
+NameError (uninitialized constant HwController::Message):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:24:09 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 37ms (Views: 35.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:24:13 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KYk2UR1EsXyOVWvL4sgcIffN84YmZ9RrIPrdeaqpRzCPvg8wzds+zloZjsFXb/5Y1o2JvZXOtPG4nheK6WEP2A==", "text1"=>"are", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+NameError (uninitialized constant HwController::Message):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:25:04 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 37ms (Views: 35.6ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:25:07 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xaq243I2wdJ3tlBuoTA7d/mo3IJSl4yGyQKjhVYR6T5jnY+CoqlOYKP6tWQUl9kO2OimueE+7BxRZml2Fdmh1g==", "text1"=>"molq", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+NameError (uninitialized constant HwController::Message):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:27:58 +0200
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.4) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (13.1ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (11.7ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateMessages (20171029172659)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (2.4ms)[0m  [1m[35mCREATE TABLE "messages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20171029172659"]]
+  [1m[35m (15.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2017-10-29 17:28:45.162864"], ["updated_at", "2017-10-29 17:28:45.162864"]]
+  [1m[35m (10.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (5.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:28:56 +0200
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 434ms (Views: 417.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:29:00 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LFTbb0uYIMbs3mqlySnpQWr9feh95kCC6JR0cQLKUrSKY+IOmwevdDiSj698jgs4S70H085PIBhw8L6CQQIaXA==", "text1"=>"hmmm", "commit"=>"Upload text"}
+Completed 400 Bad Request in 5ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: Hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:29:58 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 54ms (Views: 52.8ms)
+
+
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:30:18 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 37ms (Views: 36.4ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:30:25 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qjFXqofa2cbc7f5xXs7+I+iyR/CABdzkljjIa9z9svMMBm7LV0VWdAihG3vraRxayfI9yzOsvH4OXAKYnzX6Gw==", "text1"=>"hugh", "commit"=>"Upload text"}
+Completed 400 Bad Request in 2ms
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:39:10 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 44ms (Views: 41.9ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:39:14 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hAYONWm423v+NmGoVYRp1HJuwgeYj9GTx77frs3/HmoiMTdUuSdUySp6hKLgI4utUy64PCsmsQlf2hVdjjdWgg==", "text1"=>"edf", "commit"=>"Upload text"}
+Completed 400 Bad Request in 2ms
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: text):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 19:39:38 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 42ms (Views: 40.6ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 19:39:41 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"QBF0v5nXPrgmROm1u1J6BvIBLEAjZpy49L3k2Qs6PbjmJk3eSUixCvIIDL8O9Zh/00FWe5DP/CJs2S4qSPJ1UA==", "text1"=>"aqs", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 12ms
+
+
+  
+NoMethodError (undefined method `permit' for "aqs":String):
+  
+app/controllers/hw_controller.rb:7:in `new'
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/text" for 127.0.0.1 at 2017-10-29 20:24:19 +0200
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 830ms (Views: 806.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 20:24:24 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lYCp+Wz2PfeQhYpdhioc9umgsC2wirTzJwn5jvxVWQkzt5CYvGmyRUTJb1czjf6PyODKFgMj1Gm/bTN9v50R4Q==", "text1"=>"lqlqlqlqlq", "commit"=>"Upload text"}
+Completed 400 Bad Request in 18ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 20:24:56 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 30ms (Views: 28.7ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 20:25:13 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FZAaX7pfmWMiwRuddvURfLGDEU5wmVnEZSQjERO5fH6zpyM+asAW0faN/pfDUvMFkMNrdcMwOV79QOniUHE0lg==", "text1"=>"qwertyuiop", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 251ms
+
+
+  
+NameError (undefined local variable or method `text1' for #<HwController:0x0000555c48423430>
+Did you mean?  text_url):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 20:53:33 +0200
+  
+Gem::LoadError (Specified 'sqlite3' for database adapter, but the gem is not loaded. Add `gem 'sqlite3'` to your Gemfile (and ensure its version is at the minimum required by ActiveRecord).):
+  
+activerecord (5.1.4) lib/active_record/connection_adapters/connection_specification.rb:188:in `rescue in spec'
+activerecord (5.1.4) lib/active_record/connection_adapters/connection_specification.rb:185:in `spec'
+activerecord (5.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:880:in `establish_connection'
+activerecord (5.1.4) lib/active_record/connection_handling.rb:58:in `establish_connection'
+activerecord (5.1.4) lib/active_record/railtie.rb:124:in `block (2 levels) in <class:Railtie>'
+activesupport (5.1.4) lib/active_support/lazy_load_hooks.rb:69:in `instance_eval'
+activesupport (5.1.4) lib/active_support/lazy_load_hooks.rb:69:in `block in execute_hook'
+activesupport (5.1.4) lib/active_support/lazy_load_hooks.rb:60:in `with_execution_control'
+activesupport (5.1.4) lib/active_support/lazy_load_hooks.rb:65:in `execute_hook'
+activesupport (5.1.4) lib/active_support/lazy_load_hooks.rb:50:in `block in run_load_hooks'
+activesupport (5.1.4) lib/active_support/lazy_load_hooks.rb:49:in `each'
+activesupport (5.1.4) lib/active_support/lazy_load_hooks.rb:49:in `run_load_hooks'
+activerecord (5.1.4) lib/active_record/base.rb:326:in `<module:ActiveRecord>'
+activerecord (5.1.4) lib/active_record/base.rb:25:in `<top (required)>'
+activesupport (5.1.4) lib/active_support/dependencies.rb:292:in `require'
+activesupport (5.1.4) lib/active_support/dependencies.rb:292:in `block in require'
+activesupport (5.1.4) lib/active_support/dependencies.rb:258:in `load_dependency'
+activesupport (5.1.4) lib/active_support/dependencies.rb:292:in `require'
+activerecord (5.1.4) lib/active_record/migration.rb:562:in `connection'
+activerecord (5.1.4) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  [1m[35m (21.7ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (13.5ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT pg_try_advisory_lock(5431777121374847355)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateMessages (20171029172659)
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (11.6ms)[0m  [1m[35mCREATE TABLE "messages" ("id" bigserial primary key, "text1" text, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20171029172659"]]
+  [1m[35m (1.7ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (5.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2017-10-29 19:04:17.873043"], ["updated_at", "2017-10-29 19:04:17.873043"]]
+  [1m[35m (1.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(5431777121374847355)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/text" for 127.0.0.1 at 2017-10-29 21:12:31 +0200
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 542ms (Views: 520.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 21:12:37 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Vb6YTnsd9DTJHeOxWRAX9QdGbQ4PKSyPXO+bDoWiEUhifv1DJdj1h3iy0vF3FN9RnLDY3/KJCIV2xEDKMulMag==", "text1"=>"lelelelelelel", "commit"=>"Upload text"}
+Completed 400 Bad Request in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: hw):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 21:15:24 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 142ms (Views: 134.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 21:15:43 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"k0pjHigpq37z0m0Rr+SnMMRzfjKr/1lxKDkw99dy8+2kigYTduyqzUJ9XFGB4G+UX4XL41ZffXsCEuszYDmuzw==", "text1"=>"lele", "commit"=>"Upload text"}
+Completed 400 Bad Request in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: data):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/text" for 127.0.0.1 at 2017-10-29 21:17:12 +0200
+Processing by HwController#id as HTML
+  Rendering hw/id.html.erb within layouts/application
+  Rendered hw/id.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 44ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/text" for 127.0.0.1 at 2017-10-29 21:17:16 +0200
+Processing by HwController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/0hFk86S+uHuTT5+r1LhU/Hi81Le0xDfPtGchjBVTRHIiCCekFf7Ul/iDz6BVin3ahRGgyNzNNUU+kdChx4QMw==", "text1"=>"le", "commit"=>"Upload text"}
+Completed 400 Bad Request in 4ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: message):
+  
+app/controllers/hw_controller.rb:7:in `new'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:22:45 +0200
+  [1m[35m (12.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+LoadError (Unable to autoload constant MessagesController, expected /home/kateto/Documents/TUES/Ruby/blog/app/controllers/messages_controller.rb to define it):
+  
+activesupport (5.1.4) lib/active_support/dependencies.rb:511:in `load_missing_constant'
+activesupport (5.1.4) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.4) lib/active_support/dependencies.rb:582:in `get'
+activesupport (5.1.4) lib/active_support/dependencies.rb:613:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:99:in `binary_params_for?'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:90:in `set_binary_encoding'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:67:in `path_parameters='
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:48:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:24:10 +0200
+  
+LoadError (Unable to autoload constant MessagesController, expected /home/kateto/Documents/TUES/Ruby/blog/app/controllers/messages_controller.rb to define it):
+  
+activesupport (5.1.4) lib/active_support/dependencies.rb:511:in `load_missing_constant'
+activesupport (5.1.4) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.4) lib/active_support/dependencies.rb:582:in `get'
+activesupport (5.1.4) lib/active_support/dependencies.rb:613:in `constantize'
+actionpack (5.1.4) lib/action_dispatch/http/request.rb:85:in `controller_class_for'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:99:in `binary_params_for?'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:90:in `set_binary_encoding'
+actionpack (5.1.4) lib/action_dispatch/http/parameters.rb:67:in `path_parameters='
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:48:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:24:54 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 677ms (Views: 668.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:24:59 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"yUj/wbY+zhlrHQdhTNY9X+1bKy5EOKA1iI/+fcvgPbdYZ4ZPydeL0qTg7U1tdHAjgb3+iIwW22SfFHJB/fTdPg==", "text1"=>"hii", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 65ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:25:01 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"o0y4AdnsFz0FflCSyil36NsIEF/FFO+34F966U5jzlYyY8GPpgVS9sqDur7rizqUt+7F+Q06lOb3xPbVeHcu3w==", "text1"=>"", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 33ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:25:04 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MrJ4KC6kwjmIsu5dMcpx6EoX3FvGOIKrEOBjtJGb6gWjnQGmUU2H8kdPBHEQaDyUJvEJ/Q4W+foHe++Ip48KjA==", "text1"=>"hi", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 34ms (Views: 29.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:25:08 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lcaG9NtydRJ8im6JXXyReBhM1S85CpjaRYjcMNPkypUE6f96pJsw2bN3hKV83twEdKoAifEk44tSE1AM5fAqHA==", "text1"=>"hi", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 48ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:25:52 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KhSwtmzDOcYb5UG5E9KnXlM2hgkiBoC1/cpMq5cxtOm7O8k4Eyp8DdQYq5UycOoiP9BTr+oo++TqUcCXoSVUYA==", "text1"=>"hi", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 138ms (Views: 135.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:26:34 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 32ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:26:39 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"raBvUNg2rmyslQdSQv92QmQKFnNitgseIuu3A76Y1AA8jxbep9/rp2No7X5jXTs+COzD1aqYcE81cDs/iIw0iQ==", "text1"=>"olq", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 32ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:29:35 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:29:40 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"2wqBoi7AxcPbXBDRuQHCA43d15ixJ/ET5torg9I5DIhKJfgsUSmACBSh+v2Yo49/4TsCPnkJikLxQae/5C3sAQ==", "text1"=>"hi", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:30:38 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 63ms (Views: 62.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:30:44 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uMXE+UEdhjKZUr5awLu8B7pqOKzW/mMEMcgS9tTG5j0p6r13PvTD+VavVHbhGfF71oztCh7QGFUmU57K4tIGtA==", "text1"=>"lel", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 50ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:30:46 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CCJI0TMirGzecHUjNBhBhKrhXnA6x1xBvjvDHX1J78yZDTFfTMvppxGNnw8Vugz4xgeL1vLpJxCpoE8hS10PRQ==", "text1"=>"", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 44ms (Views: 43.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:30:48 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1ePjeXuRiiY4QK2ZVgcE+FvFLh6DBdXe3cw0+oFk6opEzJr3BHjP7fe9R7V3pUmENyP7uEsrro/KV7jGt3AKAw==", "text1"=>"", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 34ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:30:50 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ipcXinRgKJockYDEv872WwnSvgBjh9hhw1g9cYjJvH0buG4EC4ltUdNsauiebLsnZTRrpqupozDUw7FNvt1c9A==", "text1"=>"", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 51ms (Views: 49.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:33:05 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 62ms (Views: 60.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:33:13 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GxyCimgptUE5mJEBnVCYoHDKQ4TAjq4ZfoFIaE7LFPeKM/sEF8DwivZley288tXcHCyWIgig1UhpGsRUeN/0fg==", "text1"=>"wer", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 55ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:36:08 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 37ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:36:15 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:36:43 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 76ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:36:49 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DJjNtEApKLXzfZ0x5kU66QVOdonIEc7TRX+J/cnQ38ydt7Q6P8BtfjyAdx3H53eVaaijLwA/tYJS5AXB/8Q/RQ==", "text1"=>"123456", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 76ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:41:55 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 46ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:42:06 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:42:37 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 33ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:42:45 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"y/95k1DcspRwGbXu2R9WbVIXhBV0Golt50f3S4/zoiha0AAdLzX3X7/kX8L4vRsRPvFRs7w08jzw3Ht3uedCoQ==", "text1"=>"alabala", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 39ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:45:17 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:45:24 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1whxG24CAorKzfyZgFonUclJ2DhdCuekKz71aHpwA8JGJwiVEetHQQUwFrWh+Gotpa8NnpUknPU8pXlUTGTjSw==", "text1"=>"molqqqqqqqqqqqqqqq", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 35ms (Views: 32.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:50:14 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:50:43 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:50:50 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/messages" for 127.0.0.1 at 2017-11-05 16:51:00 +0200
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for MessagesController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:51:24 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 54ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:51:30 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:52:46 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 70ms (Views: 68.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:53:23 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 74ms (Views: 72.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:53:27 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+9cf46c4d0QFfmubfV3otWt9uOuHdUn87F7DKAMZ50ojxxHdUZufjLMVxmQR7bjVM1y8kd4aJCyHcso9QXuWJQ==", "text1"=>"jctjtjcjc", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 73ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/new" for 127.0.0.1 at 2017-11-05 16:57:16 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 39ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/new" for 127.0.0.1 at 2017-11-05 16:57:23 +0200
+Processing by MessagesController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xI0swNe20z3x9bsymTGgxOVGzBZl/Jd5bPN5LBPs2J0cnSL+IRU79UeeFs31gfCkvWfIbDyT+qkH33A5UY6p8g==", "text1"=>"alabalanica", "commit"=>"Upload text"}
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/messages" for 127.0.0.1 at 2017-11-05 17:02:26 +0200
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 526ms (Views: 508.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/messages" for 127.0.0.1 at 2017-11-05 17:02:31 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZLGzISmhVIfnuCpQ64BnjjmcdAVcVchnuQfJD9s2X6i8ob0f3wK8T1HTh6+HMDfuYb1wfwU6pbfSK8AamVQuxw==", "text1"=>"olq", "commit"=>"Upload text"}
+Completed 400 Bad Request in 17ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: messages):
+  
+app/controllers/messages_controller.rb:8:in `create'
+Started GET "/messages" for 127.0.0.1 at 2017-11-05 17:03:21 +0200
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 62ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/messages" for 127.0.0.1 at 2017-11-05 17:03:37 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tzyI4c88LyrlpVNQYslcvofevnXZqEOM0/4j1LUzv25vLIbfOZ/H4lPO/q8OeQze3/+6D4DHLly40irB91HOAQ==", "text1"=>"hjkhbnl", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  
+app/controllers/messages_controller.rb:8:in `create'
+Started GET "/messages" for 127.0.0.1 at 2017-11-05 17:06:05 +0200
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MessagesController#new as HTML
+  Rendering messages/new.html.erb within layouts/application
+  Rendered messages/new.html.erb within layouts/application (39.9ms)
+Completed 200 OK in 343ms (Views: 323.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/messages" for 127.0.0.1 at 2017-11-05 17:06:18 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YPlLsBWBObS6YlBsqDUtpWyYVlKHq7nnnEd3QfMl7VG46UWO4yLRfAwJ/ZPEhX3FNLlSKN7E1Df3a35UsUecPg==", "messages"=>{"text"=>"i tova ne raboti, shte umra, chestno "}, "commit"=>"Save Messages"}
+Completed 500 Internal Server Error in 78ms (ActiveRecord: 61.2ms)
+
+
+  
+ActiveModel::UnknownAttributeError (unknown attribute 'text' for Message.):
+  
+app/controllers/messages_controller.rb:9:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 18:58:15 +0200
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 719ms (Views: 697.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 18:58:31 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JmWsgCLttKwTmSusA0Ot58Dp6mbClOxlGrn69ncMm9z+daK+1E5cZKXyhlNv8/2HmMjuHJv7gbVxlfPjNW7qsw==", "content"=>"me llamo el laibreria", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 33ms (ActiveRecord: 18.0ms)
+
+
+  
+ActiveModel::UnknownAttributeError (unknown attribute 'content' for Message.):
+  
+app/controllers/messages_controller.rb:41:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 19:13:19 +0200
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 640ms (Views: 605.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 19:13:27 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"7sEB8K+ma33S1D+QrpW3ULkGTMySzj+AqcKPl/r00EQ20Q/OWQWDtWS/km/CJecw4SdItsuhUlDC7oaCuJahKw==", "content"=>"plz", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 59ms (ActiveRecord: 34.9ms)
+
+
+  
+ActiveModel::UnknownAttributeError (unknown attribute 'content' for Message.):
+  
+app/controllers/messages_controller.rb:41:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 19:15:40 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (31.4ms)
+Completed 200 OK in 294ms (Views: 225.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 19:16:27 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XiVzqgKBCzeZt5ogN9Za9Kg/cdFiZe4QrcalFlef/AOGNX2U9CLj/y/cN99bZgqU8B51qzsKg8DG6qwDFf2NbA==", "content"=>"okkay", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 305ms (ActiveRecord: 116.9ms)
+
+
+  
+ArgumentError (When assigning attributes, you must pass a hash as an argument.):
+  
+app/controllers/messages_controller.rb:41:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 19:21:44 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (454.9ms)
+Completed 200 OK in 21774ms (Views: 20724.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 19:22:32 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JTo2+F2LpTEpfjpwFI+Ktp4bOsimRsM8XVBTGQYi4OX9KjjGqyhN+Z8Vl494P9rWxjo+sv8pruw2fFoMRECRig==", "content"=>"olq", "commit"=>"Upload text"}
+Completed 500 Internal Server Error in 278ms (ActiveRecord: 0.0ms)
+
+
+  
+ActiveModel::UnknownAttributeError (unknown attribute 'content' for Message.):
+  
+app/controllers/messages_controller.rb:41:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 20:13:05 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (12464.4ms)
+Completed 200 OK in 30690ms (Views: 29249.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-05 20:18:16 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (78.3ms)
+Completed 200 OK in 1376ms (Views: 1326.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 20:18:26 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Ux8F5B4dSGpVS44qp2+zDw0boXImux2DAjU9WtnM92Nw53l8PcGq5YnJLE+iDqJIlAQ6r7t2e2OC1iSq0tO7Yg==", "content"=>"lqlqlqlqlqlq", "commit"=>"Upload text"}
+  [1m[35m (15.8ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1.0ms)[0m  [1m[31mROLLBACK[0m
+Completed 500 Internal Server Error in 5143ms (ActiveRecord: 16.8ms)
+
+
+  
+NoMethodError (undefined method `slug=' for #<Message:0x00007f60c426fb48>):
+  
+app/models/message.rb:7:in `block in generate_random_slug'
+app/models/message.rb:6:in `loop'
+app/models/message.rb:6:in `generate_random_slug'
+app/controllers/messages_controller.rb:42:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 20:19:19 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 146ms (Views: 130.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 20:19:24 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KyxDzczY4IeKhFGCEoCSZ1TBEBJX/5NqhHcEEIt/lxoI1D9V7wQCCFYG8+cX4YMgzd6Lz8oy9YoElB3ggGDbGw==", "content"=>"lqlqlqlqlq", "commit"=>"Upload text"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (315.7ms)[0m  [1m[32mINSERT INTO "messages" ("created_at", "updated_at") VALUES ($1, $2) RETURNING "id"[0m  [["created_at", "2017-11-05 18:19:24.810236"], ["updated_at", "2017-11-05 18:19:24.810236"]]
+  [1m[35m (22.7ms)[0m  [1m[35mCOMMIT[0m
+Completed 500 Internal Server Error in 508ms (ActiveRecord: 338.7ms)
+
+
+  
+NoMethodError (undefined method `slug' for #<Message:0x00007f60c016cc18>):
+  
+app/controllers/messages_controller.rb:43:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 20:20:18 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 49ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 20:20:24 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"0qb8sjQWVj5gztxy/LYDBl6qqw1hpNc8uGHE98pBmGTxXoAqF8q0sbxMfhf51xJBx7Uw0Pxpsdw4gt0HwV7UZQ==", "content"=>"lqlqlqlq", "commit"=>"Upload text"}
+  [1m[35m (1.9ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (20.1ms)[0m  [1m[32mINSERT INTO "messages" ("created_at", "updated_at") VALUES ($1, $2) RETURNING "id"[0m  [["created_at", "2017-11-05 18:20:24.068319"], ["updated_at", "2017-11-05 18:20:24.068319"]]
+  [1m[35m (2.5ms)[0m  [1m[35mCOMMIT[0m
+Completed 500 Internal Server Error in 41ms (ActiveRecord: 24.5ms)
+
+
+  
+TypeError (no implicit conversion of Message into String):
+  
+app/controllers/messages_controller.rb:43:in `+'
+app/controllers/messages_controller.rb:43:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 20:20:49 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 53ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 20:20:55 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"TWTu581tQ+gsWJTrthgoMioAwjTlzBc8wgbQXOi7kaFunJJ/7rGhZ/DaNo6zeTl1sx9Z6XgBcdxC5cms46TdoA==", "content"=>"lqlqlqlqlq", "commit"=>"Upload text"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "messages" ("created_at", "updated_at") VALUES ($1, $2) RETURNING "id"[0m  [["created_at", "2017-11-05 18:20:55.464350"], ["updated_at", "2017-11-05 18:20:55.464350"]]
+  [1m[35m (1.6ms)[0m  [1m[35mCOMMIT[0m
+Completed 500 Internal Server Error in 53ms (ActiveRecord: 2.1ms)
+
+
+  
+NoMethodError (undefined method `slug' for #<Message:0x00007f60c040c040>):
+  
+app/controllers/messages_controller.rb:43:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 20:25:24 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 137ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 20:25:33 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"G/V7ivb/5OHWFmFd95Ibb4iKy4Hnw7Jqy1ZKZO8jcG04DQcS1SMGbgqUwzjy8wooEZVQXHoO1IpLtVOU5Dw8bA==", "content"=>"lqlqlqllq", "commit"=>"Upload text"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (4.5ms)[0m  [1m[32mINSERT INTO "messages" ("created_at", "updated_at") VALUES ($1, $2) RETURNING "id"[0m  [["created_at", "2017-11-05 18:25:33.497107"], ["updated_at", "2017-11-05 18:25:33.497107"]]
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 6.6ms)
+
+
+  
+TypeError (no implicit conversion of Integer into String):
+  
+app/controllers/messages_controller.rb:43:in `+'
+app/controllers/messages_controller.rb:43:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 20:25:54 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 62ms (Views: 52.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 20:26:00 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HPkhixW8KvmMKTf1LbdPp78SweW66XFv/fgIjPsIKA8/AV0TNmDIdlCrlZAo1l7gJg1aOCckF499GxF88BdkDg==", "content"=>"shalqlqlqlq", "commit"=>"Upload text"}
+  [1m[35m (4.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (9.7ms)[0m  [1m[32mINSERT INTO "messages" ("created_at", "updated_at") VALUES ($1, $2) RETURNING "id"[0m  [["created_at", "2017-11-05 18:26:00.734045"], ["updated_at", "2017-11-05 18:26:00.734045"]]
+  [1m[35m (1.8ms)[0m  [1m[35mCOMMIT[0m
+Completed 500 Internal Server Error in 36ms (ActiveRecord: 15.8ms)
+
+
+  
+NoMethodError (undefined method `slug' for #<Message:0x00007f60b9fcdb38>):
+  
+app/controllers/messages_controller.rb:43:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 21:06:20 +0200
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (Couldn't find MessagesHelper, expected it to be defined in helpers/messages_helper.rb):
+  
+app/controllers/application_controller.rb:1:in `<top (required)>'
+app/controllers/messages_controller.rb:1:in `<top (required)>'
+Started GET "/" for 127.0.0.1 at 2017-11-05 21:07:24 +0200
+  [1m[35m (3.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 374ms (Views: 354.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 21:07:35 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+Pf7KH5Dn7lJEv+WvbgaTZjnBhyHKs0TkUxoRwWvXdLbD4ewXZ99NpWQXfO42QsKAfidwRrnq/MRr3G3DrAR0w==", "content"=>"abcdefghijklmop", "commit"=>"Upload text"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (1.3ms)[0m  [1m[32mINSERT INTO "messages" ("created_at", "updated_at") VALUES ($1, $2) RETURNING "id"[0m  [["created_at", "2017-11-05 19:07:35.137201"], ["updated_at", "2017-11-05 19:07:35.137201"]]
+  [1m[35m (21.5ms)[0m  [1m[35mCOMMIT[0m
+Completed 500 Internal Server Error in 135ms (ActiveRecord: 99.9ms)
+
+
+  
+NoMethodError (undefined method `slug' for nil:NilClass):
+  
+app/controllers/messages_controller.rb:43:in `create'
+Started GET "/" for 127.0.0.1 at 2017-11-05 21:10:20 +0200
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.erb within layouts/application
+  Rendered messages/index.html.erb within layouts/application (32.1ms)
+Completed 200 OK in 239ms (Views: 186.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/" for 127.0.0.1 at 2017-11-05 21:10:57 +0200
+Processing by MessagesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xO6eAo27eBGWBEweO7JKJebqqlwxPW0NIXUiRaBL0D/nFuKarmeankqG7ns+01tif/UxgazwC+2hlju1q1ScPg==", "content"=>"qrstuvwxyz", "commit"=>"Upload text"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+Completed 500 Internal Server Error in 167ms (ActiveRecord: 19.9ms)
+
+
+  
+NoMethodError (undefined method `slug=' for #<Message:0x0000561007188a40>):
+  
+app/models/message.rb:7:in `block in generate_random_slug'
+app/models/message.rb:6:in `loop'
+app/models/message.rb:6:in `generate_random_slug'
+app/controllers/messages_controller.rb:42:in `create'
+Started GET "/messages/1/info" for 127.0.0.1 at 2017-11-05 22:12:14 +0200
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MessagesController#info as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 337ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `messages_url' for #<MessagesController:0x00007f4520b06848>
+Did you mean?  messages_api_url):
+  
+app/controllers/messages_controller.rb:47:in `info'
+Started GET "/messages/1/info" for 127.0.0.1 at 2017-11-05 22:13:13 +0200
+Processing by MessagesController#info as HTML
+  Parameters: {"id"=>"1"}
+  Rendering messages/info.html.erb within layouts/application
+  Rendered messages/info.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 497ms (Views: 496.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/messages/api/1" for 127.0.0.1 at 2017-11-05 22:13:27 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/messages/api/1"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/messages/1/info" for 127.0.0.1 at 2017-11-05 22:14:18 +0200
+Processing by MessagesController#info as HTML
+  Parameters: {"id"=>"1"}
+  Rendering messages/info.html.erb within layouts/application
+  Rendered messages/info.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 26ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+

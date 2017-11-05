@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :notes
+  resources :messages
   get '/messages/:id/info', to: 'messages#info'
   post '/messages/api', to: 'messages#create'
 end
